@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm ꈤꌗ</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesyildirim7&label=Profile%20views&color=0e75b6&style=flat" alt="enesyildirim7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enesyildirim7" alt="enesyildirim7" /></a> </p>
-
 - 🌱 I’m currently learning **Pytorch**
 
 - 📫 How to reach me **info.enesyildirim@gmail.com**
