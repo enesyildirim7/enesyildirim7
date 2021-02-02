@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Pytorch**
 
-- 📫 How to reach me **info.enesyildirim@gmail.com**
+- 📫 You can reach me here **info.enesyildirim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
