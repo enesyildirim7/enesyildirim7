@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ꈤꌗ</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesyildirim7&label=Profile%20views&color=0e75b6&style=flat" alt="enesyildirim7" /> </p>
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Django & React**
 
 - 📫 You can reach me here **info.enesyildirim@gmail.com**
 
