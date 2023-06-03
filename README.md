@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm ꈤꌗ</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesyildirim7&label=Profile%20views&color=0e75b6&style=flat" alt="enesyildirim7" /> </p>
 
-- 🌱 I’m currently learning **Django & React**
+- 🌱 I’m currently development with **Django & React**
 
 - 📫 You can reach me here **info.enesyildirim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/enesyildirim7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="enesyildirim7" height="30" width="40" /></a>
-<a href="https://www.behance.net/enesyildirim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="enesyildirim" height="30" width="40" /></a>
-<a href="https://medium.com/@enesyildirim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@enesyildirim" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/enesyildirim7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@enesyildirim" height="30" width="40" /></a>
+<a href="https://kaggle.com/enesyildirim7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="enesyildirim7" height="30" width="40" /></a>
+<a href="https://www.behance.net/enesyildirim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="enesyildirim" height="30" width="40" /></a>
+<a href="https://medium.com/@enesyildirim/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@enesyildirim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
